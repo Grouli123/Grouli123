@@ -8,7 +8,7 @@
 <div size='20px'> Hi! My name is Kamil. Thank You for taking the time to view my GitHub Profile :smile:
 
 
-<img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/69174156/222849607-24ae78f6-2e79-4d7c-b809-ed393eedbad4.gif"/>
+<img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/69174156/222849607-24ae78f6-2e79-4d7c-b809-ed393eedbad4.gif"/>
 
 
 - 🔭 I'm currently participating in game jams
@@ -19,7 +19,7 @@
 
 - 💬 Talk to me about Unity, C#, Unreal Engine, Git, Visual Studio Code
   </div>
-
+<br>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Grouli123?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 <a href= https://github.com/Grouli123?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg'> </a>
@@ -33,7 +33,8 @@
 <a href= https://github.com/Grouli123?tab=repositories&q= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
 <a href= https://github.com/Grouli123?tab=repositories&q= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 
-
+<br>
+<br>
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://discordapp.com/users/Grouli123#7757'> <img width = '32px' align= 'center' src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/discord.svg"/></a>
 <a href = 'https://t.me/Grouli123'> <img width = '32px' align= 'center' 
