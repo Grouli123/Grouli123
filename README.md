@@ -6,9 +6,9 @@
 [![Github](https://img.shields.io/github/followers/Grouli123?label=Follow&style=social)](https://github.com/Grouli123)
 
 <div size='20px'> Hi! My name is Kamil. Thank You for taking the time to view my GitHub Profile :smile:
-</div>
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/69174156/222844993-2dbb5c75-ee26-4d7b-ae83-c3a49ef46fbf.gif" /><iframe 
+
+<img width="15%" align="right" alt="Github" src="https://user-images.githubusercontent.com/69174156/222844993-2dbb5c75-ee26-4d7b-ae83-c3a49ef46fbf.gif" />
 
 
 - 🔭 I'm currently participating in game jams
@@ -18,6 +18,7 @@
 - 👯 There are few projects in my GitHub, since most of it is embarrassing to show :sweat:
 
 - 💬 Talk to me about Unity, C#, Unreal Engine, Git, Visual Studio Code
+  </div>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Grouli123?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
