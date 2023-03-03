@@ -8,7 +8,7 @@
 <div size='20px'> Hi! My name is Kamil. Thank You for taking the time to view my GitHub Profile :smile:
 
 
-<img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/69174156/222849607-24ae78f6-2e79-4d7c-b809-ed393eedbad4.gif"/>
+<img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/69174156/222849607-24ae78f6-2e79-4d7c-b809-ed393eedbad4.gif"/>
 
 
 - 🔭 I'm currently participating in game jams
