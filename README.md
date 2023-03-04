@@ -15,7 +15,7 @@
 
 - 🌱 At the moment I am studying for a master's degree at the RANEPA Institute in the field of game design and development of computer games
 
-- 👯 I am gradually studying Middle courses-a Unity game devel- oper from SkillBox. I have a year of experi- ence in Unity 3D development and am con- stantly improving my skills
+- 👯 I am gradually studying Middle coursesa Unity game developer from SkillBox. I have a year of experience in Unity 3D development and am constantly improving my skills
 
 - 💬 Talk to me about Unity, C#, Python, Git, Visual Studio Code and about the news in the gaming industry
   </div>
