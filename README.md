@@ -5,19 +5,19 @@
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Grouli123.Grouli123)
 [![Github](https://img.shields.io/github/followers/Grouli123?label=Follow&style=social)](https://github.com/Grouli123)
 
-<div size='20px'> Hi! My name is Kamil. Thank You for taking the time to view my GitHub Profile :smile:
+<div size='20px'> Hi! My name is Nikita. Thank You for taking the time to view my GitHub Profile :smile:
 
 
 <img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/69174156/222849607-24ae78f6-2e79-4d7c-b809-ed393eedbad4.gif"/>
 
 
-- 🔭 I'm currently participating in game jams
+- 🔭 I'm currently participating in game jams. The last one I participated in was a Gamebox. Where, together with a team of 8 people, under the supervision of a mentor, the Cyber James game was developed over a month period, which was approved by 3 practicing experts of game studios in the field of Unity 3D and Unreal Engine development.
 
-- 🌱 At the moment I am studying the profession of a game designer at RANEPA
+- 🌱 At the moment I am studying for a master's degree at the RANEPA Institute in the field of game design and development of computer games
 
-- 👯 There are few projects in my GitHub, since most of it is embarrassing to show :sweat:
+- 👯 There are few projects in my GitHub :sweat:
 
-- 💬 Talk to me about Unity, C#, Unreal Engine, Git, Visual Studio Code
+- 💬 Talk to me about Unity, C#, Python, Git, Visual Studio Code and about the news in the gaming industry
   </div>
 <br>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
@@ -46,7 +46,6 @@ src="https://user-images.githubusercontent.com/103457938/187045729-99f62a9d-2bc1
 
 <br>
 <br>
-  <br>
 <h2> ⭐️ Statistics ⭐️ </h2>
 
 | ![Nikita's github stats](https://github-readme-stats.vercel.app/api?username=Grouli123&show_icons=true&theme=radical)             | ![Nikita GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Grouli123&theme=radical)                                                                                                           |
