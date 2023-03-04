@@ -11,7 +11,7 @@
 <img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/69174156/222849607-24ae78f6-2e79-4d7c-b809-ed393eedbad4.gif"/>
 
 
-- 🔭 I'm currently participating in game jams. The last one I participated in was a Gamebox. Where, together with a team of 8 people, under the supervision of a mentor, the Cyber James game was developed over a month period, which was approved by 3 practicing experts of game studios in the field of Unity 3D and Unreal Engine development.
+- 🔭 I'm currently participating in game jams. The last one I participated in was a Gamebox. Where, together with a team of 8 people, under the supervision of a mentor, the Cyber James game was developed over a month period, which was approved by 3 practicing experts of game studios in the field of Unity 3D and Unreal Engine development
 
 - 🌱 At the moment I am studying for a master's degree at the RANEPA Institute in the field of game design and development of computer games
 
