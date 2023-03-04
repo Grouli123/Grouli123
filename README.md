@@ -15,7 +15,7 @@
 
 - 🌱 At the moment I am studying for a master's degree at the RANEPA Institute in the field of game design and development of computer games
 
-- 👯 There are few projects in my GitHub :sweat:
+- 👯 There are few projects in my GitHub
 
 - 💬 Talk to me about Unity, C#, Python, Git, Visual Studio Code and about the news in the gaming industry
   </div>
