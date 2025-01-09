@@ -55,13 +55,13 @@
 - Dark Souls Prototype:
   - Combat mechanics and health system development.
   - Complex level design and enemy behavior implementation.  
-
+<!-- 
 🎓 Education and Certifications:
 - Master's Degree: Game Development and Game Design (RANEPA, 2023).
 - Courses:
   - AR/VR Development (SkillBox, RANEPA).
   - Game Monetization.
-  - 2D/3D Art Courses.
+  - 2D/3D Art Courses. -->
 
 <!-- 📫 Contacts: -->
 
