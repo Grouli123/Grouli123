@@ -100,8 +100,11 @@ src="https://user-images.githubusercontent.com/103457938/187045729-99f62a9d-2bc1
 <br>
 <h2> ⭐️ Statistics ⭐️ </h2>
 
-![Nikita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grouli123&show_icons=true&theme=radical)               
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grouli123&langs_count=8&theme=radical&layout=compact) 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grouli123&show_icons=true&count_private=true&hide_title=false&theme=radical)
+## 📊 GitHub Statistics
+
+| ![Nikita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grouli123&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grouli123&langs_count=8&theme=radical&layout=compact) |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grouli123&show_icons=true&count_private=true&hide_title=false&theme=radical) |                                                                                                                               |
+
 
 
