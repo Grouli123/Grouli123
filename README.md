@@ -17,6 +17,10 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 💬 I’m always open to new opportunities, whether it’s working on a large-scale project, collaboration, or sharing experiences!
 <h2>🎓 Education and Certifications:</h2>
