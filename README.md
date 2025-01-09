@@ -67,7 +67,7 @@
 
 - Email: Grouli123@yandex.ru
 - Telegram: @Grouli123
-- LinkedIn: [Profile](https://www.linkedin.com/in/grouli123)
+- LinkedIn: [Grouli123](https://www.linkedin.com/in/grouli123)
 
 - 💬 I’m always open to new opportunities, whether it’s working on a large-scale project, collaboration, or sharing experiences!
 
