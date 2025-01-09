@@ -10,7 +10,9 @@
 
 
 <img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/69174156/222849607-24ae78f6-2e79-4d7c-b809-ed393eedbad4.gif"/>
-
+<br>
+<br>
+<br>
 <h2>🎓 Education and Certifications:</h2>
 <h4>- Master's Degree: Game Development and Game Design (RANEPA, 2023).</h4>
 <h4>- Courses:</h4>
@@ -103,6 +105,19 @@
   - Confident use of Git, GitHub, and GitLab.
   - Collaboration through Miro and adoption of Agile methods.</h4>
 
+  ### Skills and Tools
+
+![C#](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg)
+![Unity](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg)
+![Unreal Engine](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unreal.svg)
+![C++](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg)
+![Python](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg)
+![Photoshop](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg)
+![Blender](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/blender.svg)
+![MySQL](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg)
+![Git](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg)
+
+<!-- 
 <a href= https://github.com/Grouli123?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 <a href= https://github.com/Grouli123?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg'> </a>
 <a href= https://github.com/Grouli123?tab=repositories&q= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unreal.svg'> </a>
@@ -113,7 +128,7 @@
 <a href= https://github.com/Grouli123?tab=repositories&q= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
 <a href= https://github.com/Grouli123?tab=repositories&q= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/blender.svg'> </a>
 <a href= https://github.com/Grouli123?tab=repositories&q= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/Grouli123?tab=repositories&q= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
+<a href= https://github.com/Grouli123?tab=repositories&q= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a> -->
 
 <br>
 <br>
