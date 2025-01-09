@@ -11,6 +11,15 @@
 
 <img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/69174156/222849607-24ae78f6-2e79-4d7c-b809-ed393eedbad4.gif"/>
 
+<h2>🎓 Education and Certifications:</h2>
+<h3>- Master's Degree: Game Development and Game Design (RANEPA, 2023).</h3>
+<h3>- Courses:</h3>
+<h3>  - AR/VR Development (SkillBox, RANEPA).</h3>
+<h3>  - Game Monetization.</h3>
+<h3>  - 2D/3D Art Courses.</h3>
+
+<br>
+<br>
 <!-- 🚀 Key Skills and Expertise: -->
 
 <!-- - Unity and C#:
@@ -71,7 +80,7 @@
 <h3>  - Game Monetization.</h3>
 <h3>  - 2D/3D Art Courses.</h3><br> -->
 
-- Unity and C#:
+<p>- Unity and C#:
   - Development of 2D/3D games: from concept to release.
   - Working with DoTween, Timeline, Cinemachine, and Post-Processing.
   - Creation of complex game mechanics, including AI interaction with environments.
@@ -92,7 +101,7 @@
 - Teamwork and Tools:
   - Efficient task organization using task trackers (Taiga, Trello).
   - Confident use of Git, GitHub, and GitLab.
-  - Collaboration through Miro and adoption of Agile methods.
+  - Collaboration through Miro and adoption of Agile methods.</p>
 
 <a href= https://github.com/Grouli123?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 <a href= https://github.com/Grouli123?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg'> </a>
@@ -122,15 +131,7 @@ src="https://user-images.githubusercontent.com/103457938/187045729-99f62a9d-2bc1
 
 <br>
 <br>
-<h2>🎓 Education and Certifications:</h2>
-<h3>- Master's Degree: Game Development and Game Design (RANEPA, 2023).</h3>
-<h3>- Courses:</h3>
-<h3>  - AR/VR Development (SkillBox, RANEPA).</h3>
-<h3>  - Game Monetization.</h3>
-<h3>  - 2D/3D Art Courses.</h3>
 
-<br>
-<br>
 <!-- <h2> ⭐️ Statistics ⭐️ </h2> -->
 
 ## 📊 GitHub Statistics
