@@ -89,7 +89,7 @@
 <br>
 <br>
 <h2> 📫 Contacts: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="75px" align= 'center'> </h2>
-- Email: Grouli123@yandex.ru
+<h3>- Email: Grouli123@yandex.ru</h3>
 - Telegram: @Grouli123
 - LinkedIn: [Grouli123](https://www.linkedin.com/in/grouli123)
 <a href = 'https://discordapp.com/users/Grouli123#7757'> <img width = '32px' align= 'center' src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/discord.svg"/></a>
