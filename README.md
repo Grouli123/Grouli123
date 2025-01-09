@@ -6,23 +6,36 @@
 
 [![Github](https://img.shields.io/github/followers/Grouli123?label=Follow&style=social)](https://github.com/Grouli123)
 
-<div style="display: flex; align-items: center; justify-content: space-between; font-size: 20px; line-height: 1.5;">
-  <div>
-    <p>Hi! My name is Nikita. I’m a Unity developer with over two years of experience in creating games <br> 
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1; font-size: 20px;">
+    Hi! My name is Nikita. I’m a Unity developer with over two years of experience in creating games<br> 
     and applications for virtual and augmented reality. My goal is to develop engaging projects <br>
-    with a focus on quality and immersive experiences. 😊</p>
-    <br>
-    <p>💬 I’m always open to new opportunities, whether it’s working on a large-scale project, collaboration, or sharing experiences!</p>
-    <h2>🎓 Education and Certifications:</h2>
-    <h4>- Master's Degree: Game Development and Game Design (RANEPA, 2023).</h4>
-    <h4>- Courses:</h4>
-    <h4>  - AR/VR Development (SkillBox, RANEPA).</h4>
-    <h4>  - Game Monetization.</h4>
-    <h4>  - 2D/3D Art Courses.</h4>
+    with a focus on quality and immersive experiences. 😊
   </div>
-  <img width="25%" alt="Github" src="https://user-images.githubusercontent.com/69174156/222849607-24ae78f6-2e79-4d7c-b809-ed393eedbad4.gif"/>
+  <div style="flex: 0;">
+    <img width="25%" alt="Github" src="https://user-images.githubusercontent.com/69174156/222849607-24ae78f6-2e79-4d7c-b809-ed393eedbad4.gif"/>
+  </div>
 </div>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+💬 I’m always open to new opportunities, whether it’s working on a large-scale project, collaboration, or sharing experiences!
+<h2>🎓 Education and Certifications:</h2>
+<h4>- Master's Degree: Game Development and Game Design (RANEPA, 2023).</h4>
+<h4>- Courses:</h4>
+<h4>  - AR/VR Development (SkillBox, RANEPA).</h4>
+<h4>  - Game Monetization.</h4>
+<h4>  - 2D/3D Art Courses.</h4>
+
+
+
+  </div>
 <br>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px align= 'center'> </h2>
 
