@@ -6,19 +6,71 @@
 
 [![Github](https://img.shields.io/github/followers/Grouli123?label=Follow&style=social)](https://github.com/Grouli123)
 
-<div size='20px'> Hi! My name is Nikita. Thank You for taking the time to view my GitHub Profile :smile:
+<div size='20px'> Hi! My name is Nikita. I’m a Unity developer with over two years of experience in creating games and applications for virtual and augmented reality. My goal is to develop engaging projects with a focus on quality and immersive experiences. :smile:
 
 
 <img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/69174156/222849607-24ae78f6-2e79-4d7c-b809-ed393eedbad4.gif"/>
 
+🚀 Key Skills and Expertise:
 
-- 🔭 I'm currently participating in game jams. The last one I participated in was a Gamebox. Where, together with a team of 8 people, under the supervision of a mentor, the Cyber James game was developed over a month period, which was approved by 3 practicing experts of game studios in the field of Unity 3D and Unreal Engine development
+- Unity and C#:
+  - Development of 2D/3D games: from concept to release.
+  - Working with DoTween, Timeline, Cinemachine, and Post-Processing.
+  - Creation of complex game mechanics, including AI interaction with environments.
 
-- 🌱 At the moment I am studying for a master's degree at the RANEPA Institute in the field of game design and development of computer games
+- Application Architecture:
+  - Utilizing MVC patterns and DI (Zenject).
+  - Performance optimization and dependency management.
+  - Developing and testing modular code.
 
-- 👯 I am gradually studying Middle coursesa Unity game developer from SkillBox. I have a year of experience in Unity 3D development and am constantly improving my skills
+- VR/AR Development:
+  - Building immersive applications for Windows, macOS, Android, and iOS.
+  - Working with 2D/3D physics, raycasts, and visual effects.
 
-- 💬 Talk to me about Unity, C#, Python, Git, Visual Studio Code and about the news in the gaming industry
+- Multiplayer Games:
+  - Setting up player interactions, multiplayer mechanics, and game sessions.
+  - Integrating metrics and analytics.
+
+- Teamwork and Tools:
+  - Efficient task organization using task trackers (Taiga, Trello).
+  - Confident use of Git, GitHub, and GitLab.
+  - Collaboration through Miro and adoption of Agile methods.
+
+🏆 Completed Projects:
+
+- Cyber James:
+  - Lead Unity developer role.
+  - Developed movement and shooting mechanics.
+  - Created AI behavior, cutscenes, and scoring systems.
+  - Available on itch.io.
+
+- Motocross:
+  - Game mechanics with infinite path generation.
+  - Speed balancing for competition with adaptive AI.
+
+- Fun Kitchen:
+  - Intuitive cooking mechanics: slicing, boiling, and dish assembly.
+  - Endless scrolling gameplay with a timer.
+
+- Dark Souls Prototype:
+  - Combat mechanics and health system development.
+  - Complex level design and enemy behavior implementation.  
+
+🎓 Education and Certifications:
+- Master's Degree: Game Development and Game Design (RANEPA, 2023).
+- Courses:
+  - AR/VR Development (SkillBox, RANEPA).
+  - Game Monetization.
+  - 2D/3D Art Courses.
+
+📫 Contacts:
+
+- Email: Grouli123@yandex.ru
+- Telegram: @Grouli123
+- LinkedIn: Profile
+
+- 💬 I’m always open to new opportunities, whether it’s working on a large-scale project, collaboration, or sharing experiences!
+
   </div>
 <br>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px align= 'center'> </h2>
@@ -48,7 +100,7 @@ src="https://user-images.githubusercontent.com/103457938/187045729-99f62a9d-2bc1
 <br>
 <h2> ⭐️ Statistics ⭐️ </h2>
 
-| ![Nikita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grouli123&show_icons=true&theme=radical)             |                                                                                                          |
+| ![Nikita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grouli123&show_icons=true&theme=radical)             |               
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grouli123&langs_count=8&theme=radical&layout=compact) | ![GitHub Stars](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grouli123&theme=radical) |
 
