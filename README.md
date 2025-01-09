@@ -104,22 +104,36 @@
   - Efficient task organization using task trackers (Taiga, Trello).
   - Confident use of Git, GitHub, and GitLab.
   - Collaboration through Miro and adoption of Agile methods.
-  
+
   </h4>
 
-
-
-<a href= https://github.com/Grouli123?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
-<a href= https://github.com/Grouli123?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg'> </a>
-<a href= https://github.com/Grouli123?tab=repositories&q= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unreal.svg'> </a>
-<a href= https://github.com/Grouli123?tab=repositories&q= > <img width ='32px' src 
-='https://user-images.githubusercontent.com/103457938/187045503-0d8557b8-9b7b-43be-815c-d499f6137903.png'> </a>
-<a href= https://github.com/Grouli123?tab=repositories&q= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/Grouli123?tab=repositories&q= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/Grouli123?tab=repositories&q= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
-<a href= https://github.com/Grouli123?tab=repositories&q= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/blender.svg'> </a>
-<a href= https://github.com/Grouli123?tab=repositories&q= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/Grouli123?tab=repositories&q= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
+<a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=csharp&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg" alt="C#">
+</a>
+<a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=unity&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg" alt="Unity">
+</a>
+<a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=csharp&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unreal.svg" alt="Unreal">
+</a>
+<a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=python&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="Python">
+</a>
+<a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=cpp&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg" alt="C++">
+</a>
+<a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=photoshop&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg" alt="Photoshop">
+</a>
+<a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=blender&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/blender.svg" alt="Blender">
+</a>
+<a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=mysql&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg" alt="MySQL">
+</a>
+<a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=git&sort=">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" alt="Git">
+</a>
 
 <br>
 <br>
