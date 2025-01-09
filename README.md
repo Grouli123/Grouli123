@@ -78,7 +78,9 @@
 <h3>  - Game Monetization.</h3>
 <h3>  - 2D/3D Art Courses.</h3><br> -->
 
-<h4>- Unity and C#:
+<h4>
+
+- Unity and C#:
   - Development of 2D/3D games: from concept to release.
   - Working with DoTween, Timeline, Cinemachine, and Post-Processing.
   - Creation of complex game mechanics, including AI interaction with environments.
