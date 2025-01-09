@@ -12,6 +12,10 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 <h2>🎓 Education and Certifications:</h2>
 <h4>- Master's Degree: Game Development and Game Design (RANEPA, 2023).</h4>
 <h4>- Courses:</h4>
