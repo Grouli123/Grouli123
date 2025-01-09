@@ -17,6 +17,8 @@
 <br>
 <br>
 <br>
+
+💬 I’m always open to new opportunities, whether it’s working on a large-scale project, collaboration, or sharing experiences!
 <h2>🎓 Education and Certifications:</h2>
 <h4>- Master's Degree: Game Development and Game Design (RANEPA, 2023).</h4>
 <h4>- Courses:</h4>
@@ -24,9 +26,7 @@
 <h4>  - Game Monetization.</h4>
 <h4>  - 2D/3D Art Courses.</h4>
 
-<br>
 
-💬 I’m always open to new opportunities, whether it’s working on a large-scale project, collaboration, or sharing experiences!
 
   </div>
 <br>
