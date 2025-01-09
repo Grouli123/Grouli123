@@ -6,23 +6,10 @@
 
 [![Github](https://img.shields.io/github/followers/Grouli123?label=Follow&style=social)](https://github.com/Grouli123)
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-
-<div style="flex: 1;">
-
-### Hi! My name is Nikita.  
-I’m a Unity developer with over two years of experience in creating games  
-and applications for virtual and augmented reality. My goal is to develop  
-engaging projects with a focus on quality and immersive experiences. :smile:  
-
-</div>
-
-<div style="flex: 1; text-align: right;">
-<img width="50%" alt="Github" src="https://user-images.githubusercontent.com/69174156/222849607-24ae78f6-2e79-4d7c-b809-ed393eedbad4.gif"/>
-</div>
-
-</div>
-
+<div size='20px'> Hi! My name is Nikita. I’m a Unity developer with over two years of experience in creating games and applications for virtual and augmented reality. My goal is to develop engaging projects with a focus on quality and immersive experiences. :smile:
+<br>
+<br>
+<img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/69174156/222849607-24ae78f6-2e79-4d7c-b809-ed393eedbad4.gif"/>
 <br>
 <br>
 <br>
