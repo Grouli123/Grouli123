@@ -74,6 +74,11 @@
   </div>
 <br>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px align= 'center'> </h2>
+<h3>- Master's Degree: Game Development and Game Design (RANEPA, 2023).</h3>
+<h3>- Courses:</h3>
+<h3>  - AR/VR Development (SkillBox, RANEPA).</h3>
+<h3>  - Game Monetization.</h3>
+<h3>  - 2D/3D Art Courses.</h3><br>
 <a href= https://github.com/Grouli123?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 <a href= https://github.com/Grouli123?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg'> </a>
 <a href= https://github.com/Grouli123?tab=repositories&q= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unreal.svg'> </a>
