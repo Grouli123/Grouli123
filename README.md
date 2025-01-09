@@ -90,8 +90,8 @@
 <br>
 <h2> 📫 Contacts: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="75px" align= 'center'> </h2>
 <h3>- Email: Grouli123@yandex.ru</h3>
-- Telegram: @Grouli123
-- LinkedIn: [Grouli123](https://www.linkedin.com/in/grouli123)
+<h3>- Telegram: @Grouli123</h3>
+<h3>- LinkedIn: [Grouli123](https://www.linkedin.com/in/grouli123)</h3>
 <a href = 'https://discordapp.com/users/Grouli123#7757'> <img width = '32px' align= 'center' src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/discord.svg"/></a>
 <a href = 'https://t.me/Grouli123'> <img width = '32px' align= 'center' 
 src="https://user-images.githubusercontent.com/103457938/187045729-99f62a9d-2bc1-4417-9608-090371d10275.png"/></a>
