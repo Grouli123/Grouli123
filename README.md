@@ -5,16 +5,11 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Grouli123&color=brightgreen)
 
 [![Github](https://img.shields.io/github/followers/Grouli123?label=Follow&style=social)](https://github.com/Grouli123)
-<table style="width: 100%; border: none; border-spacing: 0;">
-<tr>
-<td style="width: 70%; vertical-align: top; border: none;">
-<div size='20px'> Hi! My name is Nikita. I’m a Unity developer with over two years of experience in creating games and applications for virtual and augmented reality. My goal is to develop engaging projects with a focus on quality and immersive experiences. :smile:
-</td>
-<td style="width: 30%; text-align: right; border: none;">
-<!-- <br>
-<br> -->
-<img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/69174156/222849607-24ae78f6-2e79-4d7c-b809-ed393eedbad4.gif"/>
-<!-- <br>
+
+<div size='20px'> Hi! My name is Nikita. I’m a Unity developer with over two years of experience in creating <img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/69174156/222849607-24ae78f6-2e79-4d7c-b809-ed393eedbad4.gif"/> games and applications for virtual and augmented reality. My goal is to develop engaging projects with a focus on quality and immersive experiences. :smile:
+<br>
+<br>
+<!-- <img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/69174156/222849607-24ae78f6-2e79-4d7c-b809-ed393eedbad4.gif"/> -->
 <br>
 <br>
 <br>
@@ -24,10 +19,9 @@
 <br>
 <br>
 <br>
-<br> -->
-</td>
-</tr>
-</table>
+<br>
+<br>
+
 💬 I’m always open to new opportunities, whether it’s working on a large-scale project, collaboration, or sharing experiences!
 <h2>🎓 Education and Certifications:</h2>
 <h4>- Master's Degree: Game Development and Game Design (RANEPA, 2023).</h4>
