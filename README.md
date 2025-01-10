@@ -60,31 +60,31 @@
 <br>
 <p align="center">
   <a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=csharp&sort=">
-    <img width="32px" style="margin: 10px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg" alt="C#">
+    <img width="32px" style="margin: 25px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg" alt="C#">
   </a>
   <a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=unity&sort=">
-    <img width="32px" style="margin: 10px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg" alt="Unity">
+    <img width="32px" style="margin: 25px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg" alt="Unity">
   </a>
   <a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=csharp&sort=">
-    <img width="32px" style="margin: 10px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unreal.svg" alt="Unreal">
+    <img width="32px" style="margin: 25px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unreal.svg" alt="Unreal">
   </a>
   <a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=python&sort=">
-    <img width="32px" style="margin: 10px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="Python">
+    <img width="32px" style="margin: 25px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="Python">
   </a>
   <a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=cpp&sort=">
-    <img width="32px" style="margin: 10px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg" alt="C++">
+    <img width="32px" style="margin: 25px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg" alt="C++">
   </a>
   <a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=photoshop&sort=">
-    <img width="32px" style="margin: 10px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg" alt="Photoshop">
+    <img width="32px" style="margin: 25px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg" alt="Photoshop">
   </a>
   <a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=blender&sort=">
-    <img width="32px" style="margin: 10px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/blender.svg" alt="Blender">
+    <img width="32px" style="margin: 25px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/blender.svg" alt="Blender">
   </a>
   <a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=mysql&sort=">
-    <img width="32px" style="margin: 10px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg" alt="MySQL">
+    <img width="32px" style="margin: 25px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg" alt="MySQL">
   </a>
   <a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=git&sort=">
-    <img width="32px" style="margin: 10px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" alt="Git">
+    <img width="32px" style="margin: 25px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" alt="Git">
   </a>
 </p>
 
