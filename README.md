@@ -9,6 +9,7 @@
 <br>
 <br>
 <br>
+<br>
 
 💬 I’m always open to new opportunities, whether it’s working on a large-scale project, collaboration, or sharing experiences!
 <br>
@@ -98,12 +99,12 @@
 </h4>
 <br>
 <p align="center">
-  <a href = 'https://discordapp.com/users/Grouli123#7757'> <img width = '32px' align= 'center' src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/discord.svg"/></a>
-  <a href = 'https://t.me/Grouli123'> <img width = '32px' align= 'center' 
+  <a href = 'https://discordapp.com/users/Grouli123#7757'> <img width = '48px' align= 'center' src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/discord.svg"/></a>
+  <a href = 'https://t.me/Grouli123'> <img width = '48px' align= 'center' 
   src="https://user-images.githubusercontent.com/103457938/187045729-99f62a9d-2bc1-4417-9608-090371d10275.png"/></a>
-  <a href = 'https://www.github.com/Grouli123'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  <a href="https://www.linkedin.com/in/grouli123"><img src="https://cdn3.emoji.gg/emojis/5085-linkedin-logo.png" width="32px" height="32px" alt="Linkedin_logo" align= 'center'></a>
-  <a href="https://gitlab.com/grouli123"><img src="https://cdn3.emoji.gg/emojis/6931_gitlab.png" width="32px" height="32px" alt="gitlab" align= 'center'></a>
+  <a href = 'https://www.github.com/Grouli123'> <img width = '48px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+  <a href="https://www.linkedin.com/in/grouli123"><img src="https://cdn3.emoji.gg/emojis/5085-linkedin-logo.png" width="48px" height="48px" alt="Linkedin_logo" align= 'center'></a>
+  <a href="https://gitlab.com/grouli123"><img src="https://cdn3.emoji.gg/emojis/6931_gitlab.png" width="48px" height="48px" alt="gitlab" align= 'center'></a>
 </p>
 <br>
 
