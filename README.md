@@ -59,8 +59,7 @@
   </h4>
 <br>
 <br>
-<br>
-<div style="text-align: center;">
+<p align="center">
   <a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=csharp&sort=">
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg" alt="C#">
   </a>
@@ -88,10 +87,9 @@
   <a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=git&sort=">
     <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" alt="Git">
   </a>
-</div>
+</p>
 
 
-<br>
 <br>
 <br>
 
