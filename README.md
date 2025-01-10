@@ -59,57 +59,34 @@
   </h4>
 <br>
 <p align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding: 20px;">
-        <a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=csharp&sort=">
-          <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg" alt="C#">
-        </a>
-      </td>
-      <td align="center" style="padding: 20px;">
-        <a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=unity&sort=">
-          <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg" alt="Unity">
-        </a>
-      </td>
-      <td align="center" style="padding: 20px;">
-        <a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=csharp&sort=">
-          <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unreal.svg" alt="Unreal">
-        </a>
-      </td>
-      <td align="center" style="padding: 20px;">
-        <a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=python&sort=">
-          <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="Python">
-        </a>
-      </td>
-      <td align="center" style="padding: 20px;">
-        <a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=cpp&sort=">
-          <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg" alt="C++">
-        </a>
-      </td>
-      <td align="center" style="padding: 20px;">
-        <a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=photoshop&sort=">
-          <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg" alt="Photoshop">
-        </a>
-      </td>
-      <td align="center" style="padding: 20px;">
-        <a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=blender&sort=">
-          <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/blender.svg" alt="Blender">
-        </a>
-      </td>
-      <td align="center" style="padding: 20px;">
-        <a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=mysql&sort=">
-          <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg" alt="MySQL">
-        </a>
-      </td>
-      <td align="center" style="padding: 20px;">
-        <a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=git&sort=">
-          <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" alt="Git">
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=csharp&sort=">
+    <img width="32px" style="margin: 150px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg" alt="C#">
+  </a>
+  <a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=unity&sort=">
+    <img width="32px" style="margin: 150px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg" alt="Unity">
+  </a>
+  <a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=csharp&sort=">
+    <img width="32px" style="margin: 150px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unreal.svg" alt="Unreal">
+  </a>
+  <a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=python&sort=">
+    <img width="32px" style="margin: 150px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="Python">
+  </a>
+  <a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=cpp&sort=">
+    <img width="32px" style="margin: 150px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg" alt="C++">
+  </a>
+  <a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=photoshop&sort=">
+    <img width="32px" style="margin: 150px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg" alt="Photoshop">
+  </a>
+  <a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=blender&sort=">
+    <img width="32px" style="margin: 150px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/blender.svg" alt="Blender">
+  </a>
+  <a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=mysql&sort=">
+    <img width="32px" style="margin: 150px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg" alt="MySQL">
+  </a>
+  <a href="https://github.com/Grouli123?tab=repositories&q=&type=&language=git&sort=">
+    <img width="32px" style="margin: 150px;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" alt="Git">
+  </a>
 </p>
-
 
 
 <h2> 📫 Contacts: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="75px" align= 'center'> </h2>
