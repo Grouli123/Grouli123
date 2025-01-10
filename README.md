@@ -5,9 +5,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Grouli123&color=brightgreen)
 
 [![Github](https://img.shields.io/github/followers/Grouli123?label=Follow&style=social)](https://github.com/Grouli123)
-<table style="border: none; border-collapse: collapse; width: 100%;">
+<table style="width: 100%; border: none; border-spacing: 0;">
 <tr>
-<td style="width: 70%; border: none;">
+<td style="width: 70%; vertical-align: top; border: none;">
 <div size='20px'> Hi! My name is Nikita. I’m a Unity developer with over two years of experience in creating games and applications for virtual and augmented reality. My goal is to develop engaging projects with a focus on quality and immersive experiences. :smile:
 </td>
 <td style="width: 30%; text-align: right; border: none;">
