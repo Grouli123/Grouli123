@@ -12,15 +12,15 @@
 <!-- <img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/69174156/222849607-24ae78f6-2e79-4d7c-b809-ed393eedbad4.gif"/> -->
 <br>
 <br>
+<!-- <br> -->
+<!-- <br>
+<br>
+<br> -->
+<!-- <br>
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br> -->
 
 💬 I’m always open to new opportunities, whether it’s working on a large-scale project, collaboration, or sharing experiences!
 <h2>🎓 Education and Certifications:</h2>
