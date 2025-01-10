@@ -7,18 +7,12 @@
 <div size='20px'> Hi! My name is Nikita. I’m a Unity developer with over two years of experience in creating <img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/69174156/222849607-24ae78f6-2e79-4d7c-b809-ed393eedbad4.gif"/> games<br> and applications for virtual and augmented reality. My goal is to develop engaging projects<br> with a focus on quality and immersive experiences. :smile:
 <br>
 <br>
-<!-- <img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/69174156/222849607-24ae78f6-2e79-4d7c-b809-ed393eedbad4.gif"/> -->
-<br>
-<br>
-<!-- <br> -->
-<!-- <br>
-<br>
-<br> -->
-<!-- <br>
 <br>
 <br>
 <br>
-<br> -->
+<br>
+<br>
+<br>
 
 💬 I’m always open to new opportunities, whether it’s working on a large-scale project, collaboration, or sharing experiences!
 <h2>🎓 Education and Certifications:</h2>
@@ -28,10 +22,7 @@
 <h4>  - Game Monetization.</h4>
 <h4>  - 2D/3D Art Courses.</h4>
 
-
-
   </div>
-<br>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px align= 'center'> </h2>
 
 <h4>
