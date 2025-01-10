@@ -12,17 +12,26 @@
 <br>
 <br>
 <br>
-<br>
 
 💬 I’m always open to new opportunities, whether it’s working on a large-scale project, collaboration, or sharing experiences!
+<br>
+<br>
+<br>
 <h2>🎓 Education and Certifications:</h2>
-<h4>- Master's Degree: Game Development and Game Design (RANEPA, 2023).</h4>
-<h4>- Courses:</h4>
-<h4>  - AR/VR Development (SkillBox, RANEPA).</h4>
-<h4>  - Game Monetization.</h4>
-<h4>  - 2D/3D Art Courses.</h4>
+<h4>
+
+- Master's Degree: Game Development and Game Design (RANEPA, 2023).
+<h4>
+
+- Courses:
+- AR/VR Development (SkillBox, RANEPA).
+- Game Monetization.
+- 2D/3D Art Courses.
+
+</h4>
 
   </div>
+<br>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px align= 'center'> </h2>
 
 <h4>
@@ -51,6 +60,9 @@
   - Collaboration through Miro and adoption of Agile methods.
 
   </h4>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -87,9 +99,12 @@
 <br>
 
 <h2> 📫 Contacts: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="75px" align= 'center'> </h2>
-<h3>- Email: Grouli123@yandex.ru</h3>
-<h3>- Telegram: @Grouli123</h3>
-<h3>- LinkedIn: https://www.linkedin.com/in/grouli123</h3>
+<h4>
+
+- Email: Grouli123@yandex.ru
+- Telegram: @Grouli123
+- LinkedIn: https://www.linkedin.com/in/grouli123
+</h4>
 <br>
 <a href = 'https://discordapp.com/users/Grouli123#7757'> <img width = '32px' align= 'center' src="https://github.com/rahulbanerjee26/githubProfileReadmeGenerator/blob/main/icons/discord.svg"/></a>
 <a href = 'https://t.me/Grouli123'> <img width = '32px' align= 'center' 
